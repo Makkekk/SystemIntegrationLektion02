@@ -1,3 +1,6 @@
 <Solution>
   <Project Path="Opgave01/Opgave01.csproj" />
+  <Project Path="Opgave02_Consumer/Opgave02_Consumer.csproj" />
+  <Project Path="Opgave02_WeatherApp/Opgave02_WeatherApp.csproj" />
+  <Project Path="Opgave03-CompetingConsumers/Opgave03-CompetingConsumers.csproj" />
 </Solution>
